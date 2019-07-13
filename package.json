@@ -1,0 +1,27 @@
+{
+  "name": "react-web-challenge",
+  "version": "1.0.1",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-minimal-pie-chart": "^4.2.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.3.1"
+  },
+  "devDependencies": {
+    "react-test-renderer": "^16.8.6",
+    "redux-mock-store": "^1.5.3",
+    "react-scripts": "^1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom --watchAll",
+    "eject": "react-scripts eject"
+  }
+}

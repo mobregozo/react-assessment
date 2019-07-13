@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TransferForm Link changes the class when hovered 1`] = `
+Array [
+  <div
+    className="sc-gzVnrw dsYuEe"
+    size={undefined}
+>
+    Send Money
+</div>,
+  <form
+    className="sc-dnqmqq fybLen"
+    onSubmit={[Function]}
+>
+    <div
+        className="sc-htoDjs cTasum"
+    >
+        <div
+            className="sc-bdVaJa ehXfsk"
+        >
+            <label
+                className="sc-bwzfXH TTgLG"
+            >
+                Name
+            </label>
+            <input
+                className="sc-htpNat bAmGbS"
+                onChange={[Function]}
+                type="text"
+                value=""
+            />
+            <div
+                className="sc-bxivhb cIBdLZ"
+            >
+                Please enter a valid  name
+            </div>
+        </div>
+        <div
+            className="sc-bdVaJa ehXfsk"
+        >
+            <label
+                className="sc-bwzfXH TTgLG"
+            >
+                Email Address
+            </label>
+            <input
+                className="sc-htpNat bAmGbS"
+                onChange={[Function]}
+                type="email"
+                value=""
+            />
+            <div
+                className="sc-bxivhb cIBdLZ"
+            >
+                Please enter a valid  email
+            </div>
+        </div>
+        <div
+            className="sc-bdVaJa ehXfsk"
+        >
+            <label
+                className="sc-bwzfXH TTgLG"
+            >
+                Amount
+            </label>
+            <input
+                className="sc-htpNat bAmGbS"
+                onChange={[Function]}
+                type="number"
+                value=""
+            />
+            <div
+                className="sc-bxivhb cIBdLZ"
+            >
+                Please enter a valid  amount
+            </div>
+        </div>
+    </div>
+    <input
+        className="sc-bZQynM bTjdop"
+        disabled={true}
+        type="submit"
+        value="Send"
+    />
+</form>,
+]
+`;
